@@ -1,0 +1,1 @@
+User-Agent: *Disallow:Sitemap: http://madeinplast.com/sitemap.xml
